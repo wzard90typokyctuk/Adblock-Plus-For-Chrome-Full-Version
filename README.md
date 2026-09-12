@@ -233,3 +233,6 @@ This repository serves as the official landing page for Adblock Plus for Chrome.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Adblock Plus for Chrome today!**
+
+---
+**Last updated:** 2026-09-12 21:13:59 UTC
