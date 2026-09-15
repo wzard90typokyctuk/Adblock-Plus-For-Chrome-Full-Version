@@ -235,4 +235,4 @@ This repository serves as the official landing page for Adblock Plus for Chrome.
 **Get the most recent version of Adblock Plus for Chrome today!**
 
 ---
-**Last updated:** 2026-09-15 11:10:40 UTC
+**Last updated:** 2026-09-15 16:21:24 UTC
